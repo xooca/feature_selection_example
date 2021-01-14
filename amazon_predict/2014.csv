@@ -1,0 +1,7 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments,invoice
+404-0044396-9977148,Wacom One Small (CTL 471/KO-C) Pen Tablet; ,Prabhat Kumar,2014-10-28,"Rs. 3,670.00",Rs. 0.00,,,,"EMI on Visa ending in 8849: Rs. 3,670.00; ",
+404-2578583-1133927,Defunct The Best Clear Screen Guard for Moto G; SanDisk Ultra 32GB Class 10 UHS-I microSDHC Card with Adapter (SDSDQU-032G-U46A); ,Prabhat Kumar,2014-06-29,"Rs. 1,198.00",Rs. 0.00,,,,"Visa ending in 8849: 1 July 2014:   Rs. 1,198.00; ",
+404-2237489-1349938,Rainbow Clear Screen Guard/Protector for HP Slate 7 Voice Tab; ,Prabhat Kumar,2014-06-29,Rs. 299.00,Rs. 50.00,,,,Visa ending in 8849: 30 June 2014:   Rs. 299.00; ,
+404-0119327-7230716,Clublaptop Reversible 15.6 inch Laptop Sleeve; ,Prabhat Kumar,2014-06-29,Rs. 225.00,Rs. 0.00,,,,Visa ending in 8849: 30 June 2014:   Rs. 225.00; ,
+404-5884963-7617903,"HP Slate 7 VoiceTab Tablet (WiFi, 3G, Voice Calling); ",Prabhat Kumar,2014-06-29,"Rs. 13,498.00",Rs. 99.00,,,"Rs. 13,498.00","Visa ending in 8849: 29 June 2014:   Rs. 13,498.00; ",
+"=SUBTOTAL(103, A2:A6) & "" items""",,,,"=SUBTOTAL(109,E2:E6)","=SUBTOTAL(109,F2:F6)","=SUBTOTAL(109,G2:G6)","=SUBTOTAL(109,H2:H6)","=SUBTOTAL(109,I2:I6)",,

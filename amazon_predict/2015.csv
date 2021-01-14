@@ -1,0 +1,10 @@
+﻿order id,items,to,date,total,postage,gift,VAT,refund,payments,invoice
+403-5097758-7932362,"Nokia 130 (Dual SIM, Black); ",Prabhat Kumar,2015-12-23,"Rs. 1,642.00",Rs. 50.00,,,,"Visa ending in 2243: 23 December 2015:   Rs. 1,642.00; ",
+171-4405383-2694759,ROCK Royce Series Shockproof Dual Layer Back Case Cover for Apple iPhone 5 5S - GREY; ,Prabhat Kumar,2015-11-30,Rs. 454.00,Rs. 40.00,,,,Visa ending in 2243: 30 November 2015:   Rs. 454.00; ,
+171-6163642-9763501,Indigo Nation Men's Formal Shirt (8907372122250_1ISD4482_38_Blue); Indigo Nation Men's Formal Shirt (8907372121710_1ISD8612_38_Blue); ,Karun Prasad Vishwakarma,2015-10-15,"Rs. 1,119.20",Rs. 0.00,,,,Visa ending in 2243: 16 October 2015:   Rs. 599.60; Visa ending in 2243: 16 October 2015:   Rs. 519.60; ,
+402-3308443-5931504,Omron HEM-7113 Automatic Blood Pressure Monitor; ,Prabhat Kumar,2015-10-10,"Rs. 1,259.00",Rs. 50.00,,,,"Visa ending in 2243: 11 October 2015:   Rs. 1,259.00; ",
+171-1725822-3917910,KamaSutra Skyn - 6 Condoms; Durex Condom - Excite Me (10s); Durex Condom - Feel Thin (10s); Durex Play Tingle; Durex Condom(love sex) - Taste Me Fruity Flavours for Extra Fun (10s); ,Prabhat Kumar,2015-07-10,Rs. 800.80,Rs. 0.00,,,,Visa ending in 8849: 11 July 2015:   Rs. 350.40; Visa ending in 8849: 10 July 2015:   Rs. 450.40; ,
+171-9212537-2041902,Kindle Paperwhite Wi-Fi; ,Prabhat Kumar,2015-05-28,"Rs. 11,048.00",Rs. 49.00,,,,"Visa ending in 8849: 29 May 2015:   Rs. 11,048.00; ",
+171-3931590-5017937,"Khadi Neem and Aloevera Herbal Shampoo SLS and Paraben Free, 210ml; ",Prabhat Kumar,2015-05-17,Rs. 238.00,Rs. 49.00,,,,Visa ending in 8849: 18 May 2015:   Rs. 238.00; ,
+171-9693800-1910745,D-Link DIR-605L Wireless Router - IEEE 802.11n 2 x Antenna - ISM Band - 300 Mbps Wireless Speed - 4 x Network Port - 1 x Broadband Port Desktop; ,Prabhat Kumar,2015-03-06,"Rs. 1,598.00",Rs. 99.00,,,,"Visa ending in 8849: 6 March 2015:   Rs. 1,598.00; ",
+"=SUBTOTAL(103, A2:A9) & "" items""",,,,"=SUBTOTAL(109,E2:E9)","=SUBTOTAL(109,F2:F9)","=SUBTOTAL(109,G2:G9)","=SUBTOTAL(109,H2:H9)","=SUBTOTAL(109,I2:I9)",,
